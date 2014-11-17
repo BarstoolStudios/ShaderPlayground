@@ -1,0 +1,27 @@
+# Visual Studio Projct Files
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.lastbuildstate
+*.log
+*.tlog
+*.idb
+*.pdb
+*.opensdf
+*.sdf
+*.suo
+*.sln
+
+# C++ Files
+
+*.obj
+*.dll
+
+# Linker Files
+
+*.ilk
+
+# Executables
+
+*.exe
